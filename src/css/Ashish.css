@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color:  red;
+}
+
+.data
+{
+    color: yellow;
+    
+}
+
+p
+{
+background-color: blue;
+color: aqua;
+border-radius: 20px;
+align-items: center;
+height: 100px;
+width: 100px;
+}
